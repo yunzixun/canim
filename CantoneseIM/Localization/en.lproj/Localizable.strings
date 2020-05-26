@@ -1,0 +1,71 @@
+// System
+"Settings" = "Settings";
+"General" = "General";
+"Keyboards" = "Keyboards";
+"Add New Keyboards..." = "Add New Keyboards...";
+"Edit" = "Edit";
+
+
+// Tab Bar
+"Home" = "Home";
+"Keyboard" = "Keyboard";
+"Jyutping" = "Jyutping";
+"Search" = "Search";
+"About" = "About";
+
+
+// Home
+"Type here to test keyboards" = "Type here to test keyboards";
+
+"How to enable this Keyboard" = "How to enable this Keyboard";
+"•  Jump to " = "•  Jump to ";
+"•  Tap " = "•  Tap ";
+"•  Turn on " = "•  Turn on ";
+"Canim" = "Canim";
+
+"Open " = "Open ";
+
+"How to add or edit keyboards" = "How to add or edit keyboards";
+"Go to " = "Go to ";
+" App   →   " = " App   →   ";
+", then " = ", then ";
+" or " = " or ";
+
+
+// Search
+"Search the Jyutping of Cantonese word" = "Search the Jyutping of Cantonese word";
+"No results." = "No results.";
+"Common Cantonese words only." = "Common Cantonese words only.";
+"Search on other places (websites)" = "Search on other places (websites)";
+"Jyutping resources" = "Jyutping resources";
+
+
+// About
+"Version" = "Version";
+"Source Code" = "Source Code";
+"Acknowledgements" = "Acknowledgements";
+
+"Terms of Use" = "Terms of Use";
+"Privacy Policy" = "Privacy Policy";
+
+"Contact & Help" = "Contact & Help";
+
+"Review this App" = "Review this App";
+"Share this App" = "Share this App";
+
+
+// About - Contact and Help
+"Documentation" = "Documentation";
+"FAQ" = "FAQ";
+"Website" = "Website";
+"GitHub Wiki page" = "GitHub Wiki page";
+"GitHub Issues page" = "GitHub Issues page";
+
+"Follow us on Twitter" = "Follow us on Twitter";
+"Telegram Channel" = "Telegram Channel";
+"Telegram Group" = "Telegram Group";
+
+"Email Feedback" = "Email Feedback";
+"Unable to compose mail" = "Unable to compose mail";
+"Mail Unavailable" = "Mail Unavailable";
+"OK" = "OK";
